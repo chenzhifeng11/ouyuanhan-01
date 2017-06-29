@@ -1,0 +1,6 @@
+classes= 20
+train  = /home/aolanduo222/train.txt
+valid  = /home/aolanduo222/2007_test.txt
+names = data/voc.names
+backup = backup
+
